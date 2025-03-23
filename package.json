@@ -1,0 +1,16 @@
+{
+  "name": "contact-form-netlify",
+  "version": "1.0.0",
+  "description": "Simple contact form with Mailgun integration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.0.0"
+  }
+}
